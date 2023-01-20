@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartosz Rydzkowski.
 - 👀 I like working with electronic devices and reading books.
-- 🌱 I’m currently learning about testing of IC.
-- 💞️ I'm looking to collaborate with a firm which deals with Embedded programming.
+- 🌱 I’m currently working as a QA tester (DFT).
+- 💞️ Future DFT Engineer!
 - 📫 How to reach me ? Here is my page -> https://www.linkedin.com/in/bartosz-rydzkowski-36543b20a/
 
 <!---
